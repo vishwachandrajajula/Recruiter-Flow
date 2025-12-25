@@ -1,0 +1,130 @@
+[
+  {
+    "id": 16,
+    "name": "Vishwa chandra",
+    "role": "Full Stack Developer",
+    "marks": 90,
+    "phone": "8639577139",
+    "email": "jvishwachandra@gmail.com"
+  },
+    {
+    "id": 1,
+    "name": "Rahul Sharma",
+    "role": "Frontend Developer",
+    "marks": 85,
+    "phone": "9876543210",
+    "email": "rahul.sharma@example.com"
+  },
+  {
+    "id": 2,
+    "name": "Priya Reddy",
+    "role": "Backend Developer",
+    "marks": 72,
+    "phone": "9876543211",
+    "email": "priya.reddy@example.com"
+  },
+  {
+    "id": 3,
+    "name": "Gopika Menon",
+    "role": "Data Analyst",
+    "marks": 65,
+    "phone": "9866308394",
+    "email": "arjun.mehta@example.com"
+  },
+  {
+    "id": 4,
+    "name": "Sneha Iyer",
+    "role": "UI/UX Designer",
+    "marks": 90,
+    "phone": "9876543213",
+    "email": "sneha.iyer@example.com"
+  },
+  {
+    "id": 5,
+    "name": "Vikram Singh",
+    "role": "DevOps Engineer",
+    "marks": 78,
+    "phone": "9876543214",
+    "email": "vikram.singh@example.com"
+  },
+  {
+    "id": 6,
+    "name": "Anjali Nair",
+    "role": "QA Tester",
+    "marks": 68,
+    "phone": "9876543215",
+    "email": "anjali.nair@example.com"
+  },
+  {
+    "id": 7,
+    "name": "Rohit Verma",
+    "role": "Cloud Architect",
+    "marks": 92,
+    "phone": "9876543216",
+    "email": "rohit.verma@example.com"
+  },
+  {
+    "id": 8,
+    "name": "Kavya Menon",
+    "role": "Machine Learning Engineer",
+    "marks": 88,
+    "phone": "9876543217",
+    "email": "kavya.menon@example.com"
+  },
+  {
+    "id": 9,
+    "name": "Sandeep Kulkarni",
+    "role": "Cybersecurity Specialist",
+    "marks": 74,
+    "phone": "9876543218",
+    "email": "sandeep.kulkarni@example.com"
+  },
+  {
+    "id": 10,
+    "name": "Neha Gupta",
+    "role": "Product Manager",
+    "marks": 81,
+    "phone": "9876543219",
+    "email": "neha.gupta@example.com"
+  },
+  {
+    "id": 11,
+    "name": "Amit Joshi",
+    "role": "Database Administrator",
+    "marks": 69,
+    "phone": "9876543220",
+    "email": "amit.joshi@example.com"
+  },
+  {
+    "id": 12,
+    "name": "Lakshmi Rao",
+    "role": "Business Analyst",
+    "marks": 95,
+    "phone": "9876543221",
+    "email": "lakshmi.rao@example.com"
+  },
+  {
+    "id": 13,
+    "name": "Manoj Kumar",
+    "role": "HR Specialist",
+    "marks": 77,
+    "phone": "9876543222",
+    "email": "manoj.kumar@example.com"
+  },
+  {
+    "id": 14,
+    "name": "Pooja Desai",
+    "role": "Software Tester",
+    "marks": 83,
+    "phone": "9876543223",
+    "email": "pooja.desai@example.com"
+  },
+  {
+    "id": 15,
+    "name": "Ramesh Bhat",
+    "role": "Systems Engineer",
+    "marks": 70,
+    "phone": "9876543224",
+    "email": "ramesh.bhat@example.com"
+  }
+]
